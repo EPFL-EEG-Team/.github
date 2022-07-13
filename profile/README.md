@@ -16,7 +16,7 @@ It contains all our diffrents repositories for the project *Mind-Controlled Robo
 | Maxime Zammit           |           [MaximeZmt](https://github.com/MaximeZmt) |
 
 ## Table of Contents
-1. [Download the report](https://github.com/EPFL-EEG-Team/.github/blob/main/EEG_Final_Report.pdf)
+1. [Download the report](https://github.com/EPFL-EEG-Team/.github/raw/main/EEG_Final_Report.pdf)
 2. [Access the 3D printed Headset files](https://github.com/EPFL-EEG-Team/headset)
 3. [Access the 3D printed Car design files](https://github.com/EPFL-EEG-Team/car_design)
 4. [Access the Arduino and Python code for the project](https://github.com/EPFL-EEG-Team/robot_mind_control)
