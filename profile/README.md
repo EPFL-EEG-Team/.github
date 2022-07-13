@@ -21,3 +21,5 @@ It contains all our diffrents repositories for the project *Mind-Controlled Robo
 3. [Access the 3D printed Car design files](https://github.com/EPFL-EEG-Team/car_design)
 4. [Access the Arduino and Python code for the project](https://github.com/EPFL-EEG-Team/robot_mind_control)
 
+## They mentioned our project
+- [TU Delft Robotics Student Association Newsletter](https://us5.campaign-archive.com/?u=0462cf124161d69f8cbe65672&id=d8fa53a251)
