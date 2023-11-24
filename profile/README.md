@@ -11,7 +11,7 @@ It contains all our diffrents repositories for the project *Mind-Controlled Robo
 | :---------------------- | --------------------------------------------------: |
 | Michael Freeman         |           [Naarileth](https://github.com/Naarileth) |
 | Emile Janho Dit Hreich  |       [emilehreich](https://github.com/emilehreich) |
-| Eric Saikali            |               [ESmike0](https://github.com/ESmike0) |
+| Eric Saikali            |           [ESmike0](https://github.com/EricSaikali) |
 | Marin Vogelsang         |             [marin-oz](https://github.com/marin-oz) |
 | Maxime Zammit           |           [MaximeZmt](https://github.com/MaximeZmt) |
 
